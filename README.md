@@ -1,5 +1,13 @@
-RestAssured Framework created with Java, Maven, TestNG, Extent Reports and Git
-===============================================================================
+API Automation Framework using RestAssured 
+===========================================
+
+Technologies used
+-----------------
+1. Language: Java
+2. Build tool: Maven
+3. Test run: TestNG
+4. Reports: Extent Reports
+5. Source Control: Git
 
 -------------------------------------------------
 How to configure and run tests in this framework?
